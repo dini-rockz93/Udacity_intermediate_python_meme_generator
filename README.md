@@ -1,4 +1,6 @@
-###Running the Flask APP
+# Udacity Intermediate Python Project 2 -Meme Generator
+
+### Running the Flask APP
 1. create a virtual environment `virtualvenv venv`
 2. activate the virtualenv `source ./venv/bin/activate`
 3. run `pip install -r requirements.txt`
